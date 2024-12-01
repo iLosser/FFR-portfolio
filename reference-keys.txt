@@ -1,4 +1,10 @@
-crohn_dissease
+single-cell-analysis-of-crohns-dissease
+libraries-used
+loading-in-the-data-set-from-the-cz-cellxgene-database
+qc-subsetting
+preperations
+variable-features-plot
+pca
 curriculum-vitae-ffr
 personalia-verander-zodat-er-meer-is-over-bioinfo
 opleiding
